@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dessin>
+    <Ellipse couleur="51 51 51" hauteur="299.0" largeur="260.0"
+        x="687.0" y="131.0"/>
+    <Ellipse couleur="51 51 51" hauteur="321.0" largeur="204.0"
+        x="503.0" y="181.0"/>
+    <Ellipse couleur="51 51 51" hauteur="179.0" largeur="293.0"
+        x="225.0" y="465.0"/>
+    <Ellipse couleur="102 0 102" hauteur="283.0" largeur="433.0"
+        x="621.0" y="337.0"/>
+    <Ellipse couleur="102 0 102" hauteur="283.0" largeur="433.0"
+        x="621.0" y="337.0"/>
+</dessin>

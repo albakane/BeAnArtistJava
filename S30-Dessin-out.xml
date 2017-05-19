@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dessin>
+    <Rectangle couleur="200 100 50" hauteur="150.0" largeur="100.0"
+        x="100.0" y="100.0"/>
+    <Ellipse couleur="50 155 132" hauteur="150.0" largeur="100.0"
+        x="200.0" y="200.0"/>
+    <Ligne couleur="50 55 132" hauteur="450.0" largeur="100.0" x="300.0" y="300.0"/>
+    <Carre couleur="120 200 57" largeur="100.0" x="300.0" y="100.0"/>
+    <Cercle couleur="120 200 57" largeur="100.0" x="100.0" y="300.0"/>
+    <Trace couleur="100 32 25">
+        <Point x="100.0" y="200.0"/>
+        <Point x="200.0" y="250.0"/>
+        <Point x="100.0" y="200.0"/>
+        <Point x="200.0" y="250.0"/>
+        <Point x="300.0" y="600.0"/>
+        <Point x="400.0" y="100.0"/>
+    </Trace>
+</dessin>

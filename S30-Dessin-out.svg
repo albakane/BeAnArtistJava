@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <rect height="150.0" stroke="rgb(200,100,50)" width="100.0"
+        x="100.0" y="100.0"/>
+    <ellipse cx="250.0" cy="275.0" rx="50.0" ry="75.0" stroke="rgb(50,155,132)"/>
+    <line stroke="rgb(50,55,132)" x1="300.0" x2="400.0" y1="300.0" y2="750.0"/>
+    <rect height="100.0" stroke="rgb(120,200,57)" width="100.0"
+        x="300.0" y="100.0"/>
+    <circle cx="150.0" cy="350.0" r="50.0" stroke="rgb(120,200,57)"/>
+    <path
+        d="M (100,200) L (200,250) L (100,200) L (200,250) L (300,600) L (400,100)" stroke="rgb(100,32,25)"/>
+</svg>

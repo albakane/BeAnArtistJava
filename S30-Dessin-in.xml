@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Forme >
+	<Rectangle x='100.0' y='100.0' largeur='100.0' hauteur='150.0' couleur='200 100 50' />
+	<Ellipse x='200' y='200' largeur='100' hauteur='150' couleur='50 155 132' />
+	<Ligne x='300' y='300' largeur='100' hauteur='450' couleur='50 55 132' />
+	<Carre x='300' y='100' largeur='100' couleur='120 200 57' />
+	<Cercle x='100' y='300' largeur='100' couleur='120 200 57' />
+	<Trace couleur='100 32 25'>
+		<Point x='100' y='200' />
+		<Point x='200' y='250' />
+		<Point x='300' y='600' />
+		<Point x='400' y='100' />
+	</Trace>
+</Forme>
